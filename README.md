@@ -7,3 +7,8 @@ This script presents fairly simple but complete and basic framework for Selectio
 3. Backtest portfolio of pairs using zscore method
 4. Check current zScore of cointegrated pairs
 5. Parameters optimisation
+
+#### Disclaimer
+This notebook is entirely informative. None of the content presented in this notebook constitutes a recommendation that any particular security, portfolio of securities, transaction or investment strategy is suitable for any specific person. Futures, stocks and options trading involves substantial risk of loss and is not suitable for every investor. The valuation of futures, stocks and options may fluctuate, and, as a result, clients may lose more than their original investment.
+
+All trading strategies are used at your own risk.
